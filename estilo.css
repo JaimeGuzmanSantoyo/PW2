@@ -1,0 +1,18 @@
+
+body{
+    background-color: deepskyblue;
+}
+title{
+background-color: darkcyan;
+font-size: 80px;
+}
+h1{
+    background-color: beige;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+a{
+    font-size: 30px;
+    color: rgb(114, 27, 196);
+}
